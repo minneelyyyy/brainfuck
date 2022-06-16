@@ -2,6 +2,8 @@
 
 ### an interpreter for the brainfuck programming language
 
+![hello-world.png](./images/hello-world.png "Hello World")
+
 ## Using brainfuck
 
 ### How to install brainfuck
