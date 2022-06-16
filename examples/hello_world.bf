@@ -1,7 +1,7 @@
 #######################################
 #
 # HELLO WORLD
-# Example courtesy of Wikipedia: https://enDOTwikipediaDOTorg/wiki/Brainfuck
+# Example courtesy of Wikipedia: https://en DOT wikipedia DOT org/wiki/Brainfuck
 #
 #######################################
 
