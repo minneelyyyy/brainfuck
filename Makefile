@@ -14,7 +14,7 @@ clean:
 	rm brainfuck
 
 install:
-	cp brainfuck /usr/bin/brainfuck
+	mv brainfuck /usr/bin/brainfuck
 
 uninstall:
 	rm /usr/bin/brainfuck
